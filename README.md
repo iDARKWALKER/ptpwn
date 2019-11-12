@@ -17,6 +17,7 @@ This is a tool for Windows to bypass the annoying progress reset when modifying 
 
 1. Start Packet Tracer.
 2. Compile and start ptpwn.
+2.1 To compile, open ptpwn.sln with Visual Studio, and run "Compile" to create /bin folder, which will have ptpwn.exe
 3. Make the necessary changes to the user profile and save the .pka file.
 
 Packet tracer binaries can be obtained at: https://www.netacad.com/group/offerings/packet-tracer/
